@@ -1,1 +1,1 @@
-"use strict";console.log("Hi! If you're reading this, send me a note at cressmancm@gmail.com!");
+"use strict";console.log("Hi! If you're reading this, send me a note at hello@cressmancm.com!");
